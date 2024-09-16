@@ -20,7 +20,17 @@ AgriMate aims to provide farmers with the insights they need to enhance their pr
 
 
 
+## Login Page
+![App Screenshot](HomePage.png)
 
+## Farmer's Dashboard
+![App Screenshot](Farmerdashboard.png)
+
+## Warehouse's Dashboard
+![App Screenshot](Warehousedashboard.png)
+
+## Predicted Market Prices
+![App Screenshot](PredictedMarketPrices.png)
 
 
 
