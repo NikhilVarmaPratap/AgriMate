@@ -11,11 +11,11 @@ Key Features:
 
 Technology Stack:
 
--Backend: Laravel (PHP) for application logic, data management, and user interactions.
--Machine Learning: Flask (Python) for serving the machine learning model used to predict product prices.
--Database: MySQL for storing user data, product information, and prediction results.
--Notifications: Twilio API for sending SMS alerts to farmers.
--Maps Integration: Google Maps API to display nearby storage locations.
+- Backend: Laravel (PHP) for application logic, data management, and user interactions.
+- Machine Learning: Flask (Python) for serving the machine learning model used to predict product prices.
+- Database: MySQL for storing user data, product information, and prediction results.
+- Notifications: Twilio API for sending SMS alerts to farmers.
+- Maps Integration: Google Maps API to display nearby storage locations.
 AgriMate aims to provide farmers with the insights they need to enhance their profitability and make informed decisions regarding their agricultural products.
 
 
