@@ -1,3 +1,31 @@
+## AgriMate
+
+AgriMate is a comprehensive web application designed to empower farmers by providing a platform that predicts product prices, manages storage options, and offers actionable insights based on market conditions. The application integrates a Laravel-based backend with a Flask-powered machine learning model to forecast prices, helping farmers make informed decisions about when to sell or store their products.
+
+Key Features:
+
+Price Prediction: Utilizes a machine learning model to predict future prices of agricultural products, allowing farmers to optimize their selling strategies.
+Storage Management: Displays nearby storage facilities using Google Maps API, helping farmers find the best storage options based on their location.
+SMS Notifications: Automatically notifies farmers when the storage price of their products exceeds market prices, prompting them to take action.
+User-Friendly Interface: Offers a simple and intuitive dashboard where farmers can log in, view predictions, manage their products, and receive alerts.
+Technology Stack:
+
+Backend: Laravel (PHP) for application logic, data management, and user interactions.
+Machine Learning: Flask (Python) for serving the machine learning model used to predict product prices.
+Database: MySQL for storing user data, product information, and prediction results.
+Notifications: Twilio API for sending SMS alerts to farmers.
+Maps Integration: Google Maps API to display nearby storage locations.
+AgriMate aims to provide farmers with the insights they need to enhance their profitability and make informed decisions regarding their agricultural products.
+
+
+
+
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
